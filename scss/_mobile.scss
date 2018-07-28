@@ -66,6 +66,7 @@
         grid-template-columns: repeat(2, 1fr);
     }
 }
+
 // Smartphones (Sm)
 @include mediaSm {
     main#home h1 {
